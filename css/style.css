@@ -1,0 +1,17 @@
+.head2{
+	color: yellow
+}
+.big{
+	font-size: 40px;
+}
+h4{
+	color:red;
+}
+p{
+	font-size: 40px;
+	color:green;
+	background-color: yellow;
+}
+#head1{
+	color: blue;
+}
